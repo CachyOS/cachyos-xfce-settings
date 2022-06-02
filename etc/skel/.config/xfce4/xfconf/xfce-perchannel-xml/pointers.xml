@@ -22,4 +22,9 @@
       <property name="libinput_Tapping_Enabled" type="int" value="1"/>
     </property>
   </property>
+  <property name="ALPS000100_09115288_Touchpad" type="empty">
+    <property name="Properties" type="empty">
+      <property name="libinput_Tapping_Enabled" type="int" value="1"/>
+    </property>
+  </property>
 </channel>
